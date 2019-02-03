@@ -16,6 +16,8 @@ A menu interface is built in to select a file to play back using capacitive butt
 
 Please read the [full writeup](https://joeraut.com/blog/playing-video-nokia-3310/) on how to get things working, including generating videos to be played back.
 
+See the [Processing sketches for video generation](https://github.com/joeraut/processing-nokia3310-video-converter).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
